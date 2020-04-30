@@ -1,0 +1,5 @@
+C:\Lipika\Fileinfo\Fileinfo\bin\Debug\Fileinfo.exe
+C:\Lipika\Fileinfo\Fileinfo\bin\Debug\Fileinfo.pdb
+C:\Lipika\Fileinfo\Fileinfo\obj\x86\Debug\Fileinfo.exe
+C:\Lipika\Fileinfo\Fileinfo\obj\x86\Debug\Fileinfo.pdb
+C:\Lipika\Fileinfo\Fileinfo\obj\x86\Debug\Fileinfo.csprojResolveAssemblyReference.cache
